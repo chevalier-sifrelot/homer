@@ -63,11 +63,23 @@ Conventions:
 ## Verifying
 
 ```bash
-python3 verif/verify.py            # check all entries
-python3 verif/verify.py <file>...  # check specific files
+python3 verif/verify.py             # template conformance, all entries
+python3 verif/verify.py --content   # template + quotation conformance
+python3 verif/verify.py <file>...   # check specific files
 ```
 
 Exit code `0` means conform, `1` means problems. The checker is **template-driven**:
 it reads the template to derive its rules, so change the templates rather than
 hard-coding rules. To support a new entry type, add a `folder → template` mapping
 in `FOLDER_TEMPLATE` at the top of `verify.py`. Standard-library Python 3 only.
+
+`--content` enforces the golden rule mechanically: every quotation must be the
+**words of the cited book**. Formatting is ignored (whitespace and line wrapping,
+the shape of the quotation marks, letter case, punctuation) because it says
+nothing about the text; any word added, removed or changed is an error. In
+particular a narrator's interjection may not be dropped silently — where the
+source reads `"Jove," he cried, "grant that…`, quoting `"Jove, grant that…"` as
+one run fails. Cut with `...` instead, and keep the fragments in source order.
+
+`.github/workflows/verify.yml` runs `--content` on every push and every pull
+request, annotating the offending line directly on the diff.

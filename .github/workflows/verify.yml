@@ -1,0 +1,37 @@
+name: verify
+
+# The waiki is built strictly from the source texts in sources/raw/, so every
+# entry is checked on two counts: it must follow its template, and every
+# quotation must be the words of the cited book.
+
+# Every branch is checked, not just main: an entry whose quotation drifts from
+# the source should be caught on the branch that introduces it.
+on:
+  push:
+  pull_request:
+
+# A new push supersedes the run still in flight for the same ref.
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # No dependencies to install: the checker is standard-library only and the
+      # source texts are versioned alongside the entries.
+      - name: Verify entries
+        run: python3 verif/verify.py --content --format=github
+
+      # Re-run in text form so the job log carries a readable report even when
+      # the annotations above are what a reviewer looks at first.
+      - name: Report
+        if: always()
+        run: python3 verif/verify.py --content || true

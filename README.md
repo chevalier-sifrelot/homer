@@ -25,11 +25,35 @@ One Markdown file per location appearing in the *Iliad* and/or the *Odyssey*, bu
 
 ### `verif`
 
-A template conformance checker for the `waiki` entries. `verif/verify.py` reads a template in `templates/` and derives the rules a conforming entry must satisfy, then checks entries against them — it is template-driven, so it follows any change to the templates. It verifies that (1) every frontmatter key is present and filled, (2) the infobox values match the frontmatter, (3) all required `##` sections exist, and (4) every Markdown link into `../character/` points to an existing character file.
+A conformance checker for the `waiki` entries. `verif/verify.py` reads a template
+in `templates/` and derives the rules a conforming entry must satisfy, then checks
+entries against them — it is template-driven, so it follows any change to the
+templates. It verifies that (1) every frontmatter key is present and filled, (2)
+the infobox values match the frontmatter, (3) all required `##` sections exist,
+and (4) every Markdown link into `../character/` points to an existing character
+file.
+
+With `--content` it also enforces the golden rule mechanically: every quotation is
+matched against the source texts in `sources/raw/` and must be the **words of the
+cited book**. Differences of formatting are ignored — whitespace and line wrapping
+(Butler's prose wraps mid-sentence), the shape of the quotation marks, letter
+case, punctuation — because they say nothing about the text. Any word added,
+removed or altered is an error, including one dropped silently to skip a
+narrator's interjection; a cut must be marked with `...`, and the fragments must
+stay in source order.
 
 ```bash
-python3 verif/verify.py                    # check every entry in waiki/
+python3 verif/verify.py                          # template conformance
+python3 verif/verify.py --content                # + quotation conformance
 python3 verif/verify.py waiki/location/troy.md   # check specific files
 ```
 
-Exit code is `0` if all checked files conform, `1` otherwise (suitable for a pre-commit hook or CI step). No third-party dependencies — standard-library Python 3 only. See `verif/README.md` for details.
+Exit code is `0` if all checked files conform, `1` otherwise. No third-party
+dependencies — standard-library Python 3 only. See `verif/README.md` for details.
+
+### `.github/workflows`
+
+`verify.yml` runs `verify.py --content` on every push and every pull request. It needs no dependencies and no network: the checker is standard-library
+Python and the source texts are versioned alongside the entries. Failures are
+emitted as GitHub Actions annotations, so a quotation that does not match its
+cited book is flagged on the diff at the exact line.
