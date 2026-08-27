@@ -1,11 +1,18 @@
 ---
 Name: "Menelaus"
 Kind: "Human"
-Origin: "Sparta"
+Origin: "[Sparta](../location/sparta.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Menelaus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Sparta](../location/sparta.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Menelaus** is the king of Sparta, brother of Agamemnon and husband of Helen, whose abduction by Paris is the cause of the Trojan War; he fights among the foremost Achaean chieftains and later hosts Telemachus in the Odyssey.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Polyphemus
 
+| | |
+| --- | --- |
+| **Kind** | Creature |
+| **Origin** | The land of the Cyclopes |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
+
 **Polyphemus** is a man-eating Cyclops, son of Poseidon, who traps Odysseus and his men in his cave and devours several of them before being blinded and outwitted by Odysseus's trick with the name "Noman." He exists entirely outside the Trojan War, in the monstrous world Odysseus encounters on his journey home.
 
 ## Appearances

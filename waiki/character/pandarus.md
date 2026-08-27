@@ -1,11 +1,18 @@
 ---
 Name: "Pandarus"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Pandarus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Pandarus** is a Trojan archer, son of Lycaon, whose arrow breaks the truce between the two armies by wounding Menelaus, and who is later killed by Diomed after failing to bring the Achaean champion down.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Trojans"
 ---
 # Glaucus
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Lycia |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
+
 **Glaucus** is a Lycian prince and the close comrade of Sarpedon, famed for exchanging armour with the Achaean Diomed after the two discover their families are bound by ancient guest-friendship.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Iris"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Female"
 AfiliatedTo: "Neutral"
 ---
 # Iris
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
 
 **Iris** is the swift, rainbow-footed messenger goddess who carries Zeus's commands to gods and mortals alike throughout the Iliad, serving neither side of the war but the will of Olympus itself.
 

@@ -1,11 +1,18 @@
 ---
 Name: "Circe"
 Kind: "God"
-Origin: "The island of Aeaea"
+Origin: "The island of [Aeaea](../location/aeaea.md)"
 Gender: "Female"
 AfiliatedTo: "Neutral"
 ---
 # Circe
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The island of [Aeaea](../location/aeaea.md) |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
 
 **Circe** is a cunning enchantress-goddess who lives on the island of Aeaea, where she turns Odysseus's men into pigs before becoming his lover and advisor for a year, later guiding him on how to survive the perils that lie ahead. She stands entirely outside the Trojan War, belonging to neither the Achaean nor Trojan side.
 

@@ -1,11 +1,18 @@
 ---
 Name: "Hephaestus"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Hephaestus
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Hephaestus** is the lame god of fire and the forge, son of Zeus and Hera, celebrated as the divine craftsman who forges Achilles' famous armour and, in the Odyssey, is the wronged husband of Aphrodite.
 

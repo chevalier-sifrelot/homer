@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Idomeneus
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Crete |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Idomeneus** is the king of Crete and leader of the Cretan contingent before Troy, a veteran spearman whose age does nothing to dull his ferocity in battle.
 
 ## Appearances

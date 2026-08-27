@@ -1,11 +1,18 @@
 ---
 Name: "Paris"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Paris
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Paris** (called Alexandrus throughout Butler's translation) is the son of Priam whose abduction of Helen from Sparta caused the Trojan War, a handsome archer more comfortable with his bow and his lyre than in close combat.
 

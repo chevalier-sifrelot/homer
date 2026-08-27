@@ -1,11 +1,18 @@
 ---
 Name: "Agamemnon"
 Kind: "Human"
-Origin: "Mycenae"
+Origin: "[Mycenae](../location/mycenae.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Agamemnon
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Mycenae](../location/mycenae.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Agamemnon** is the king of Mycenae and commander-in-chief of the Achaean forces at Troy, brother of Menelaus, whose quarrel with Achilles over the captive Briseis sets the Iliad's events in motion.
 

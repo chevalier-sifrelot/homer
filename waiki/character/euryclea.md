@@ -1,11 +1,18 @@
 ---
 Name: "Euryclea"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Female"
 AfiliatedTo: "Achaeans"
 ---
 # Euryclea
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
 
 **Euryclea** is the elderly and devoted nurse of Odysseus and Telemachus, a trusted housekeeper in the palace of Ithaca who recognizes the disguised Odysseus by the scar on his leg and keeps his secret until the suitors are destroyed.
 

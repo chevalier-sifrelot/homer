@@ -1,11 +1,18 @@
 ---
 Name: "Nausicaa"
 Kind: "Human"
-Origin: "Scheria"
+Origin: "[Scheria](../location/scheria.md)"
 Gender: "Female"
 AfiliatedTo: "Neutral"
 ---
 # Nausicaa
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Scheria](../location/scheria.md) |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
 
 **Nausicaa** is the young princess of the Phaeacians, daughter of Alcinous and Arete, who discovers the shipwrecked and destitute Odysseus on the beach and kindly guides him toward help. As a Phaeacian, she stands outside both the Achaean and Trojan camps.
 

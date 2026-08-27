@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Theoclymenus
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Argos (exiled) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Theoclymenus** is a fugitive seer from Argos, descended from the prophet Melampus, who flees his homeland after killing a kinsman and is taken aboard Telemachus's ship, later delivering ominous prophecies in the halls of Ithaca.
 
 ## Appearances

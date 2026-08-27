@@ -1,11 +1,18 @@
 ---
 Name: "Aphrodite"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Aphrodite
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Aphrodite** is the goddess of love and beauty, daughter of Zeus, who protects Paris and Aeneas throughout the Iliad and appears in the Odyssey as the wife of Hephaestus caught in an affair with Ares.
 

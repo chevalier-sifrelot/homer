@@ -1,11 +1,18 @@
 ---
 Name: "Calypso"
 Kind: "God"
-Origin: "The island of Ogygia"
+Origin: "The island of [Ogygia](../location/ogygia.md)"
 Gender: "Female"
 AfiliatedTo: "Neutral"
 ---
 # Calypso
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The island of [Ogygia](../location/ogygia.md) |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
 
 **Calypso** is a nymph, daughter of Atlas, who lives alone on the island of Ogygia and keeps Odysseus with her for seven years, wishing to make him her immortal husband, until the gods order her to release him. She plays no part in the Trojan War itself, standing wholly apart from the Achaean and Trojan camps.
 

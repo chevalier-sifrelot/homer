@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Scylla
 
+| | |
+| --- | --- |
+| **Kind** | Creature |
+| **Origin** | The strait between her rock and Charybdis's whirlpool |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
+
 **Scylla** is a monstrous, six-headed creature who lurks in a cave high on a rock overlooking the strait opposite Charybdis, snatching and devouring sailors from passing ships; Circe warns Odysseus about her before he must sail through the strait. She belongs to no side in the Trojan War, existing purely as a peril of Odysseus's sea voyage.
 
 ## Appearances

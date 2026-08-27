@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Poseidon
 
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The sea |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Poseidon** is the god of the sea and earthquakes, brother of Zeus, who secretly favours the Achaeans in the Iliad and becomes the relentless persecutor of Odysseus throughout the Odyssey after the blinding of his son Polyphemus.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Priam"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Priam
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Priam** is the aged king of Troy, father of Hector, Paris, and many other sons and daughters, whose reign is defined by the long war fought over his son's theft of Helen and by the grief of losing his bravest child.
 

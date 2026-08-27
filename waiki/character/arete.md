@@ -1,11 +1,18 @@
 ---
 Name: "Arete"
 Kind: "Human"
-Origin: "Scheria"
+Origin: "[Scheria](../location/scheria.md)"
 Gender: "Female"
 AfiliatedTo: "Neutral"
 ---
 # Arete
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Scheria](../location/scheria.md) |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
 
 **Arete** is the queen of the Phaeacians, wife of Alcinous, honored above all women of Scheria for her wisdom, and the first person Odysseus supplicates upon reaching the Phaeacian palace. Like her husband, she belongs to neither the Achaean nor Trojan camp.
 

@@ -1,11 +1,18 @@
 ---
 Name: "Nestor"
 Kind: "Human"
-Origin: "Pylos"
+Origin: "[Pylos](../location/pylos.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Nestor
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Pylos](../location/pylos.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Nestor** is the aged king of Pylos, the oldest and most experienced of the Achaean leaders at Troy, revered for his wisdom and his lengthy, persuasive counsel to kings and warriors alike.
 

@@ -1,11 +1,18 @@
 ---
 Name: "Apollo"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Apollo
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Apollo** is the god of the silver bow, prophecy, and plague, son of Zeus and Leto, who fights fiercely on the side of Troy throughout the Iliad and is referenced in the Odyssey mainly as a distant, formidable power invoked by mortals.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Patroclus
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Opus |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Patroclus** is Achilles's closest companion, a gentle and loyal warrior whose death at Hector's hands, while wearing Achilles's armor, drives Achilles back into the war and toward his own doom.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Eumaeus"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Eumaeus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Eumaeus** is the loyal swineherd of Odysseus's household in Ithaca, who shelters and befriends his disguised master upon his return and later helps him reclaim his home from the suitors.
 

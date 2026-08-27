@@ -1,11 +1,18 @@
 ---
 Name: "Deiphobus"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Deiphobus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Deiphobus** is one of Priam's sons and one of Hector's most trusted brothers, a bold fighter in the ranks whose form Athena borrows to trick Hector into his final, fatal stand against Achilles.
 

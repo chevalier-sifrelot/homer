@@ -1,11 +1,18 @@
 ---
 Name: "Hector"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Hector
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Hector** is the eldest son of King Priam and the greatest of the Trojan warriors, commander of the Trojan army and the city's staunchest defender until his death at the hands of Achilles.
 

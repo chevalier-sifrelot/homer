@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Sirens
 
+| | |
+| --- | --- |
+| **Kind** | Creature |
+| **Origin** | Their island near Scylla and Charybdis |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
+
 **Sirens** are a pair of enchanting singing creatures who dwell on an island in a field of flowers, luring sailors to their doom with the irresistible beauty of their song; Odysseus survives them only by having his men bind him to the mast and plug their own ears with wax. They stand outside the Trojan War entirely, encountered purely as a hazard on Odysseus's journey home.
 
 ## Appearances

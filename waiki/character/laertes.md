@@ -1,11 +1,18 @@
 ---
 Name: "Laertes"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Laertes
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Laertes** is the elderly father of Ulysses, who has withdrawn to a life of grief-stricken farm labor during his son's long absence and is finally reunited with him near the end of the Odyssey.
 

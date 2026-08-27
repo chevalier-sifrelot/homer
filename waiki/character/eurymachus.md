@@ -1,11 +1,18 @@
 ---
 Name: "Eurymachus"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Eurymachus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Eurymachus**, son of Polybus, is one of the leading suitors of Penelope alongside Antinous, outwardly smooth-tongued but secretly as dangerous and self-serving as his companion.
 

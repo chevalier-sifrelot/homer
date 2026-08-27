@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Achilles
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Phthia |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Achilles** is the greatest warrior of the Achaean army before Troy, son of Peleus and the sea-goddess Thetis; his wrath at Agamemnon and his grief over the death of Patroclus drive the entire plot of the Iliad.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Andromache"
 Kind: "Human"
-Origin: "Born in Cilician Thebe, married into Troy as Hector's wife"
+Origin: "Born in Cilician Thebe, married into [Troy](../location/troy.md) as Hector's wife"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Andromache
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Born in Cilician Thebe, married into [Troy](../location/troy.md) as Hector's wife |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Andromache** is the wife of Hector and mother of Astyanax, a Cilician princess whose entire birth family was killed by Achilles before the war and who is left widowed and afraid for her son when Hector falls.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Chryseis
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Chryse (daughter of Chryses, priest of Apollo at Chryse) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
+
 **Chryseis** is the daughter of Chryses, priest of Apollo at Chryse, taken captive and given to Agamemnon as a war-prize; Agamemnon's refusal to ransom her back to her father sets off the plague and the quarrel that opens the Iliad.
 
 ## Appearances

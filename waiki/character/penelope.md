@@ -1,11 +1,18 @@
 ---
 Name: "Penelope"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Female"
 AfiliatedTo: "Achaeans"
 ---
 # Penelope
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
 
 **Penelope** is the wife of Ulysses and queen of Ithaca, celebrated for her cunning and unwavering fidelity as she fends off a house full of suitors during her husband's twenty-year absence.
 

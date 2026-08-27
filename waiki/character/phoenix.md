@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Phoenix
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Phthia, Achilles' tutor |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Phoenix** is an aged warrior and orator who raised and tutored Achilles from boyhood, and who serves as a member of the embassy sent to persuade Achilles to return to battle.
 
 ## Appearances

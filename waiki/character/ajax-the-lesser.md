@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Ajax the Lesser
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Locris |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Ajax the Lesser** (son of Oileus) is the swift-footed leader of the Locrian contingent at Troy, a smaller but fierce warrior often paired in battle with Ajax the Great, whose boastfulness ultimately brings about his death on the voyage home.
 
 ## Appearances

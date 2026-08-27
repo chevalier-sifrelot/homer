@@ -1,11 +1,18 @@
 ---
 Name: "Athena"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Female"
 AfiliatedTo: "Achaeans"
 ---
 # Athena
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
 
 **Athena** is the grey-eyed goddess of wisdom and war, daughter of Zeus, who champions the Achaeans throughout the Iliad and personally guides Odysseus and his household through the Odyssey.
 

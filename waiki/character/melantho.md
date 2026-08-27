@@ -1,11 +1,18 @@
 ---
 Name: "Melantho"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Female"
 AfiliatedTo: "Achaeans"
 ---
 # Melantho
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
 
 **Melantho** is a disloyal maidservant in Odysseus's household, daughter of Dolius, who was raised kindly by Penelope but betrays her mistress by taking Eurymachus as a lover and mocking the disguised Odysseus.
 

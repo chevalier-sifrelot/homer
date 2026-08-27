@@ -1,11 +1,18 @@
 ---
 Name: "Artemis"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Artemis
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Artemis** is the huntress goddess of the wild and twin sister of Apollo, who fights on the Trojan side in the Iliad's battle of the gods and is elsewhere invoked in both epics as the very image of beauty and grace.
 

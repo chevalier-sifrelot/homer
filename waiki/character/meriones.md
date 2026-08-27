@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Meriones
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Crete, Idomeneus's companion |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Meriones** is a Cretan warrior and the trusted squire and second-in-command of Idomeneus, a skilled fighter and archer who repeatedly proves his courage alongside his king.
 
 ## Appearances

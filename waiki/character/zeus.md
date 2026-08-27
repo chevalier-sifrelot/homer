@@ -1,11 +1,18 @@
 ---
 Name: "Zeus"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Male"
 AfiliatedTo: "Neutral"
 ---
 # Zeus
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
 
 **Zeus** is the king of the gods and ruler of the sky, son of Cronus (Saturn), who presides over the councils of Olympus and holds ultimate power over the fates of gods and mortals alike in both epics.
 

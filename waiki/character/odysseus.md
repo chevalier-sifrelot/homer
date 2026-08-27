@@ -1,11 +1,18 @@
 ---
 Name: "Odysseus"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Odysseus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Odysseus** (called "Ulysses" in this translation) is the king of Ithaca renowned for his cunning intelligence, whose ten-year journey home after the fall of Troy is the subject of the Odyssey; he also plays a major counseling and fighting role in the Iliad.
 

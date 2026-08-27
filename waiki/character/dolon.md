@@ -1,11 +1,18 @@
 ---
 Name: "Dolon"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Dolon
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Dolon** is a Trojan herald's son who volunteers to spy on the Achaean camp in exchange for Achilles' horses and chariot, only to be captured and killed by Diomed and Ulysses on his night mission.
 

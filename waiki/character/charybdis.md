@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Charybdis
 
+| | |
+| --- | --- |
+| **Kind** | Creature |
+| **Origin** | The strait between her whirlpool and Scylla's rock |
+| **Gender** | Female |
+| **Affiliated to** | Neutral |
+
 **Charybdis** is a monstrous whirlpool that lies beneath a fig tree on a rock across the strait from Scylla, violently sucking down and vomiting up the sea three times a day, threatening to swallow Odysseus's entire ship. She takes no part in the Trojan War, appearing solely as one of the great natural terrors Odysseus must pass on his voyage home.
 
 ## Appearances

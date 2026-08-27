@@ -1,11 +1,18 @@
 ---
 Name: "Telemachus"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Telemachus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Telemachus** is the son of Ulysses and Penelope, who matures from a despairing youth into a resolute young man as he searches for news of his father and stands up to the suitors overrunning his household.
 

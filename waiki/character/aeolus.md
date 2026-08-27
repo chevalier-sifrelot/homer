@@ -1,11 +1,18 @@
 ---
 Name: "Aeolus"
 Kind: "God"
-Origin: "The floating island of Aeolia"
+Origin: "The floating island of [Aeolia](../location/aeolia.md)"
 Gender: "Male"
 AfiliatedTo: "Neutral"
 ---
 # Aeolus
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The floating island of [Aeolia](../location/aeolia.md) |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
 
 **Aeolus** is the keeper of the winds, son of Hippotas, who lives with his family on the floating island of Aeolia and is a favorite of the gods, appointed by Jove as captain over the winds; he generously helps Odysseus on his way home before angrily turning him away when the winds go wrong a second time. He takes no side in the Trojan War, existing as a minor divine figure entirely outside that conflict.
 

@@ -1,11 +1,18 @@
 ---
 Name: "Calchas"
 Kind: "Human"
-Origin: "Mycenae/unspecified, the Achaean seer"
+Origin: "[Mycenae](../location/mycenae.md)/unspecified, the Achaean seer"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Calchas
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Mycenae](../location/mycenae.md)/unspecified, the Achaean seer |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Calchas** is the chief seer and augur of the Achaean army, renowned for his prophetic wisdom, who reveals the cause of the plague sent by Apollo and once foretold the length of the Trojan War.
 

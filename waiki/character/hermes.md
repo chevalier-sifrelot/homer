@@ -1,11 +1,18 @@
 ---
 Name: "Hermes"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Male"
 AfiliatedTo: "Neutral"
 ---
 # Hermes
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
 
 **Hermes** is the messenger god and guide of travellers, son of Zeus, who serves impartially as Zeus's herald in the Iliad and helps Odysseus at key moments in the Odyssey without taking sides in the war.
 

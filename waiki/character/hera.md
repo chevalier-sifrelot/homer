@@ -1,11 +1,18 @@
 ---
 Name: "Hera"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Female"
 AfiliatedTo: "Achaeans"
 ---
 # Hera
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
 
 **Hera** is the queen of the gods, wife and sister of Zeus, who bitterly hates Troy and works tirelessly, often through cunning and deception, to secure victory for the Achaeans.
 

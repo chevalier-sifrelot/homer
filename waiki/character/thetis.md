@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Thetis
 
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The sea |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
+
 **Thetis** is a sea-goddess, the Nereid mother of Achilles, who intercedes with Zeus on her son's behalf and mourns throughout the Iliad the tragically short life fated for him.
 
 ## Appearances

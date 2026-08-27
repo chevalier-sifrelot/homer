@@ -1,11 +1,18 @@
 ---
 Name: "Ares"
 Kind: "God"
-Origin: "Mount Olympus"
+Origin: "[Mount Olympus](../location/mount-olympus.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Ares
+
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | [Mount Olympus](../location/mount-olympus.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Ares** is the god of war and slaughter, son of Zeus and Hera, who fights on the side of Troy in the Iliad and appears in the Odyssey as the lover of Aphrodite caught in Hephaestus's trap.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Trojans"
 ---
 # Sarpedon
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Lycia |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
+
 **Sarpedon** is a son of Jove and king of the Lycians, the foremost of Troy's allied champions, who leads the assault on the Achaean wall and is ultimately slain in single combat by Patroclus.
 
 ## Appearances

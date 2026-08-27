@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Teucer
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Salamis, half-brother of Ajax the Great |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Teucer** is the greatest archer among the Achaeans, the half-brother of Ajax the Great, who fights from behind his brother's shield and takes a heavy toll on the Trojans with his bow.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Cassandra"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Cassandra
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Cassandra** is a Trojan princess, daughter of King Priam, renowned as the fairest of his daughters and remembered for her tragic fate after the fall of Troy.
 

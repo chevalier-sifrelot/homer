@@ -1,11 +1,18 @@
 ---
 Name: "Antilochus"
 Kind: "Human"
-Origin: "Pylos, son of Nestor"
+Origin: "[Pylos](../location/pylos.md), son of Nestor"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Antilochus
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Pylos](../location/pylos.md), son of Nestor |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Antilochus** is a young Pylian warrior, the son of Nestor, prized for his speed and bravery, who becomes especially close to Achilles and is the one who breaks the news of Patroclus's death to him.
 

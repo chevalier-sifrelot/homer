@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Hades
 
+| | |
+| --- | --- |
+| **Kind** | God |
+| **Origin** | The underworld |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
+
 **Hades** is the god of the dead and ruler of the underworld, brother of Zeus and Poseidon, rarely seen among the other gods but constantly invoked throughout both epics as the grim destination of the slain.
 
 ## Appearances

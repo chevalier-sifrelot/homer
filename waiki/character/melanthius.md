@@ -1,11 +1,18 @@
 ---
 Name: "Melanthius"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Melanthius
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Melanthius** is the disloyal goatherd of Odysseus's household, son of Dolius, who abandons his master's cause to curry favor with the suitors and is killed for his treachery when Odysseus retakes his home.
 

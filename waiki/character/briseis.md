@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Briseis
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Lyrnessus |
+| **Gender** | Female |
+| **Affiliated to** | Achaeans |
+
 **Briseis** is a captive woman from Lyrnessus given to Achilles as a prize of war; Agamemnon's seizure of her from Achilles' tent triggers the quarrel that drives the plot of the Iliad.
 
 ## Appearances

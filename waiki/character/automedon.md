@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Automedon
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Phthia, Achilles'/Patroclus's charioteer |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Automedon** is the skilled charioteer and squire of Achilles, who drives Patroclus's chariot into battle and fights on with desperate fury after Patroclus is killed.
 
 ## Appearances

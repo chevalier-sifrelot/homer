@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Thersites
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Unclear/lowborn Greek soldier |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Thersites** is a lowborn, ugly common soldier in the Achaean army, notorious for loudly and abusively criticizing the Achaean leaders, especially Agamemnon, until Odysseus publicly beats and humiliates him into silence.
 
 ## Appearances

@@ -1,11 +1,18 @@
 ---
 Name: "Astyanax"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Astyanax
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Astyanax** is the infant son of Hector and Andromache, whose brief appearances underscore the human cost of the Trojan War and the fate that awaits Troy's royal house.
 

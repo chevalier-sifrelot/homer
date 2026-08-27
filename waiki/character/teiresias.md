@@ -7,6 +7,13 @@ AfiliatedTo: "Neutral"
 ---
 # Teiresias
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Thebes |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
+
 **Teiresias** is the blind Theban prophet whose ghost Odysseus consults in the underworld to learn how he may finally reach home; he foretells the dangers of the Thrinacian cattle, the suitors, and Odysseus's eventual peaceful death. As a shade encountered beyond the world of the living, he belongs to neither the Achaean nor Trojan camps.
 
 ## Appearances

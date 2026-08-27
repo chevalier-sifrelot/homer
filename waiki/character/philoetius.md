@@ -1,11 +1,18 @@
 ---
 Name: "Philoetius"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Philoetius
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Philoetius** is the loyal cowherd (stockman) of Odysseus's household, who remains faithful to his absent master and fights alongside him and Eumaeus to destroy the suitors.
 

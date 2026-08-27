@@ -1,11 +1,18 @@
 ---
 Name: "Helen"
 Kind: "Human"
-Origin: "Born in Sparta; living in Troy during the war"
+Origin: "Born in [Sparta](../location/sparta.md); living in [Troy](../location/troy.md) during the war"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Helen
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Born in [Sparta](../location/sparta.md); living in [Troy](../location/troy.md) during the war |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Helen** is the famously beautiful wife of Menelaus of Sparta, whose abduction by Paris (Alexandrus) sparked the Trojan War; though Greek-born, she lives in Troy for the duration of the conflict as the wife of Alexandrus, and afterward returns to Sparta with Menelaus.
 

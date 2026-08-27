@@ -7,6 +7,13 @@ AfiliatedTo: "Trojans"
 ---
 # Aeneas
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Dardania |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
+
 **Aeneas** is a Dardanian prince, son of Anchises and the goddess Venus (Aphrodite), and one of the foremost champions of Troy, twice saved from death in battle by divine intervention because the gods have decreed that his line will endure.
 
 ## Appearances

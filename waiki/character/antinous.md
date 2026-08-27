@@ -1,11 +1,18 @@
 ---
 Name: "Antinous"
 Kind: "Human"
-Origin: "Ithaca"
+Origin: "[Ithaca](../location/ithaca.md)"
 Gender: "Male"
 AfiliatedTo: "Achaeans"
 ---
 # Antinous
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Ithaca](../location/ithaca.md) |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
 
 **Antinous** is the most arrogant and ruthless of Penelope's suitors, a leading Ithacan nobleman who schemes to marry the queen, seize Ulysses' estate, and murder Telemachus, and is the first suitor killed by Ulysses on his return.
 

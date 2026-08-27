@@ -1,11 +1,18 @@
 ---
 Name: "Polydamas"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Male"
 AfiliatedTo: "Trojans"
 ---
 # Polydamas
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Male |
+| **Affiliated to** | Trojans |
 
 **Polydamas** is a Trojan captain and close comrade of Hector, born on the same night as him, whose cautious and prescient counsel is repeatedly overruled with disastrous consequences for Troy.
 

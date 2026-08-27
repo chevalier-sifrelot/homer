@@ -1,11 +1,18 @@
 ---
 Name: "Hecuba"
 Kind: "Human"
-Origin: "Troy"
+Origin: "[Troy](../location/troy.md)"
 Gender: "Female"
 AfiliatedTo: "Trojans"
 ---
 # Hecuba
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Troy](../location/troy.md) |
+| **Gender** | Female |
+| **Affiliated to** | Trojans |
 
 **Hecuba** is the queen of Troy, wife of Priam and mother of Hector, Paris, and many other children, whose grief for her slain son Hector dominates her role in the poem's final books.
 

@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Elpenor
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Unspecified; a member of Odysseus's crew |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Elpenor** is the youngest and least remarkable of Odysseus's crewmen, who dies falling from Circe's roof and later becomes the first shade Odysseus meets in the underworld, begging for a proper burial.
 
 ## Appearances

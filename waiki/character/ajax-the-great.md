@@ -7,6 +7,13 @@ AfiliatedTo: "Achaeans"
 ---
 # Ajax the Great
 
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | Salamis |
+| **Gender** | Male |
+| **Affiliated to** | Achaeans |
+
 **Ajax the Great** (son of Telamon) is the giant, formidable Achaean champion second only to Achilles in strength, famed for his massive shield and his role as a steadfast defender of the Achaean ships and dead comrades.
 
 ## Appearances

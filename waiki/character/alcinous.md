@@ -1,11 +1,18 @@
 ---
 Name: "Alcinous"
 Kind: "Human"
-Origin: "Scheria"
+Origin: "[Scheria](../location/scheria.md)"
 Gender: "Male"
 AfiliatedTo: "Neutral"
 ---
 # Alcinous
+
+| | |
+| --- | --- |
+| **Kind** | Human |
+| **Origin** | [Scheria](../location/scheria.md) |
+| **Gender** | Male |
+| **Affiliated to** | Neutral |
 
 **Alcinous** is the king of the Phaeacians on the island of Scheria, husband of Arete and father of Nausicaa, whose generous hospitality allows the shipwrecked Odysseus to recover and finally return home to Ithaca. As ruler of Scheria, he stands apart from both the Achaean and Trojan camps.
 
