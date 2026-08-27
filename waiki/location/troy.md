@@ -29,5 +29,5 @@ Troy appears throughout the Iliad, from Book I to Book XXIV, and is referred to 
 ## Inhabitants
 
 - Priam, the aged king of Troy.
-- Hector, the city's foremost warrior and its "tower of strength."
+- Hector, the city's foremost warrior and its "tower of strength" (Iliad, Book XXII)
 - Hecuba, Priam's wife, who leads the wailing of the Trojan women.

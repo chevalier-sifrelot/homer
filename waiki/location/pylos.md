@@ -29,5 +29,5 @@ Pylos appears in the Iliad (Books I, II, and XI among others) and prominently in
 ## Inhabitants
 
 - Nestor, king of Pylos and its aged counsellor.
-- Neleus, from whom the city descends, called "the city of Neleus."
+- Neleus, from whom the city descends, called "the city of Neleus" (Iliad, Book XI)
 - The Pylians, its people, described as gathered on the sea shore for sacrifice.

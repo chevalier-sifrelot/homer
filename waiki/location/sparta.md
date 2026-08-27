@@ -30,4 +30,4 @@ Sparta, also called Lacedaemon, appears in the Iliad (Books II and III) and in t
 
 - Menelaus, king of Sparta and leader of its ships to Troy.
 - Helen, whose home it was before she was carried off to Troy.
-- Megapenthes, Menelaus' son, for whom "he had found a bride from Sparta."
+- Megapenthes, Menelaus' son, for whom "he had found a bride from Sparta" (Odyssey, Book IV)

@@ -24,7 +24,7 @@ Iliad: appears notably in Book XXIV. Odyssey: appears notably in Books V, X, and
 
 - **A swift, tireless messenger who crosses land and sea in an instant**: "he bound on his glittering golden sandals with which he could fly like the wind over land and sea." (Odyssey, Book V)
 - **A kindly guide who delights in escorting travellers on their way**: "for it is you who are the most disposed to escort men on their way" (Iliad, Book XXIV)
-- **Firm and direct in delivering the will of Zeus, brooking no argument**: "Then send him away, or Jove will be angry with you and punish you" (Odyssey, Book V)
+- **Firm and direct in delivering the will of Zeus, brooking no argument**: "Then send him away... or Jove will be angry with you and punish you" (Odyssey, Book V)
 
 ## Entourage
 

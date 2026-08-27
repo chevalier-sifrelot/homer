@@ -22,7 +22,7 @@ Iliad: appears throughout, with a especially notable role in Books I, IV, VIII, 
 
 ## Personality
 
-- **Implacable in her hatred of Troy**: "My own three favourite cities, are Argos, Sparta, and Mycenae. Sack them whenever you may be displeased with them. I shall not defend them and I shall not care." (Iliad, Book IV)
+- **Implacable in her hatred of Troy**: "My own three favourite cities... are Argos, Sparta, and Mycenae. Sack them whenever you may be displeased with them. I shall not defend them and I shall not care." (Iliad, Book IV)
 - **Cunning and willing to deceive, even her own husband**: "She set herself to think how she might hoodwink him" (Iliad, Book XIV)
 - **Sharp-tongued and quarrelsome**: "Juno, rash of tongue, what are you talking about?" (Iliad, Book VIII)
 

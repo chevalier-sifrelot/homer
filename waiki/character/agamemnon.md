@@ -22,7 +22,7 @@ Agamemnon appears throughout the Iliad, with major roles in Books I, II, IX, XI,
 
 ## Personality
 
-- **Proud and authoritative**: he is repeatedly styled "Agamemnon, king of men" throughout the poem, marking his supreme rank among the Achaeans (Iliad, Book I).
+- **Proud and authoritative**: he is repeatedly styled "Agamemnon, king of men" throughout the poem, marking his supreme rank among the Achaeans (Iliad, Book II).
 - **Covetous and self-serving**: Achilles rebukes him to his face as "Most noble son of Atreus, covetous beyond all mankind" during their quarrel (Iliad, Book I).
 - **Harsh when crossed**: he drives away the priest Chryses with the threat, "let me not find you tarrying about our ships... so go, and do not provoke me or it shall be the worse for you" (Iliad, Book I).
 

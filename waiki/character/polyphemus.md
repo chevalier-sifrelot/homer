@@ -30,4 +30,4 @@ Polyphemus appears in the Odyssey in Book IX, where Odysseus recounts the encoun
 
 - Odysseus
 - Poseidon (Neptune), his father
-- The other Cyclopes who live on the "bleak headlands near him"
+- The other Cyclopes who live on the "bleak headlands near him" (Odyssey, Book IX)

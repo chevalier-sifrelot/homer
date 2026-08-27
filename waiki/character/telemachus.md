@@ -18,7 +18,7 @@ AfiliatedTo: "Achaeans"
 
 ## Appearances
 
-Telemachus is mentioned only in passing in the Iliad (as an epithet for Ulysses, "father of Telemachus," without appearing directly). He is a central figure throughout the Odyssey, notably in Books I-IV (his journey to Pylos and Sparta), II, XVI, XVII, and XXII (the slaying of the suitors).
+Telemachus is mentioned only in passing in the Iliad, where Ulysses is styled "father of Telemachus" (Iliad, Book II) without Telemachus himself appearing. He is a central figure throughout the Odyssey, notably in Books I-IV (his journey to Pylos and Sparta), II, XVI, XVII, and XXII (the slaying of the suitors).
 
 ## Personality
 

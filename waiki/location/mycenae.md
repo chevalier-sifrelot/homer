@@ -23,7 +23,7 @@ Mycenae appears in the Iliad (Books II, IV, and XI) and in the Odyssey (Books II
 ## Significance
 
 - Mycenae and its neighbouring cities sent the largest contingent to Troy under Agamemnon: "these sent a hundred ships under the command of King Agamemnon, son of Atreus. His force was far both finest and most numerous." (Iliad, Book II)
-- Its king Agamemnon held special honour among the gods in battle: "while Juno and Minerva thundered in honour of the king of rich Mycene." (Iliad, Book V)
+- Its king Agamemnon held special honour among the gods in battle: "while Juno and Minerva thundered in honour of the king of rich Mycene." (Iliad, Book XI)
 - After Agamemnon's murder it was usurped by Aegisthus until Orestes avenged his father: "seven years after he had killed Agamemnon he ruled in Mycene, and the people were obedient under him, but in the eighth year Orestes came back from Athens to be his bane" (Odyssey, Book III)
 
 ## Inhabitants

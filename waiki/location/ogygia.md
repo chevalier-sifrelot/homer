@@ -24,7 +24,7 @@ Ogygia appears in the Odyssey, chiefly in Book V, and is referenced in Books I, 
 
 - It is a lonely island set apart in the ocean, ruled by Calypso alone: "far away in the sea which is called 'the Ogygian.' Here dwells the cunning and powerful goddess Calypso, daughter of Atlas. She lives by herself far from all neighbours human or divine" (Odyssey, Book VII).
 - At its heart is Calypso's fragrant, wooded cave: "There was a large fire burning on the hearth, and one could smell from far the fragrant reek of burning cedar and sandal wood... Round her cave there was a thick wood of alder, poplar, and sweet smelling cypress trees, wherein all kinds of great birds had built their nests" (Odyssey, Book V).
-- On Ogygia Calypso detained Ulysses for years and offered him immortality: "I stayed with Calypso seven years straight on end, and watered the good clothes she gave me with my tears during the whole time... indeed she wanted to make me immortal that I might never grow old, but she could not persuade me to let her do so" (Odyssey, Book VII).
+- On Ogygia Calypso offered Ulysses immortality and kept him there for years: "indeed she wanted to make me immortal that I might never grow old, but she could not persuade me to let her do so... I stayed with Calypso seven years straight on end, and watered the good clothes she gave me with my tears during the whole time" (Odyssey, Book VII).
 
 ## Inhabitants
 

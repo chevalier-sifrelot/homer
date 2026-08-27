@@ -30,4 +30,4 @@ In the Odyssey, Circe appears mainly in Book X, where Odysseus and his men land 
 
 - Odysseus
 - Hermes (Mercury)
-- Her nymph housemaids, "the children of the groves and fountains, and of the holy waters that run down into the sea"
+- Her nymph housemaids, "the children of the groves and fountains, and of the holy waters that run down into the sea" (Odyssey, Book X)

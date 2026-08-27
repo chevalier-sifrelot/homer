@@ -30,4 +30,4 @@ Scylla appears in the Odyssey in Book XII, first described by Circe and then enc
 
 - Odysseus
 - Circe
-- Crataiis, "Scylla's dam"
+- Crataiis, "Scylla's dam" (Odyssey, Book XII)

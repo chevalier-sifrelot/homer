@@ -24,7 +24,7 @@ Antinous appears only in the Odyssey, playing a prominent role in Books I, II, I
 
 - **Arrogant and insulting**: he mocks Telemachus in open assembly, saying "Telemachus, insolent braggart that you are, how dare you try to throw the blame upon us suitors?" (Odyssey, Book II).
 - **Murderously scheming**: he leads the plot to ambush and kill Telemachus, declaring "Let us consider how we can make an end of him. He must not escape us" (Odyssey, Book XVI).
-- **Casually cruel**: enraged at the disguised Ulysses begging for food, "he threw a footstool at him, and hit him on the right shoulder-blade near the top of his back" (Odyssey, Book XVIII).
+- **Casually cruel**: enraged at the disguised Ulysses begging for food, "he threw a footstool at him, and hit him on the right shoulder-blade near the top of his back" (Odyssey, Book XVII).
 
 ## Entourage
 

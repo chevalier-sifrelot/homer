@@ -23,7 +23,7 @@ Alcinous appears in the Odyssey, playing a notable role in Books VI, VII, VIII, 
 ## Personality
 
 - **Generous and hospitable**: he offers Odysseus his own daughter's hand along with a home, saying "I wish you would stay here, marry my daughter, and become my son-in-law. If you will stay I will give you a house and an estate" (Odyssey, Book VII).
-- **Fair and even-tempered**: he refuses to be provoked over a slight to his hospitality, replying "Stranger, I am not the kind of man to get angry about nothing; it is always better to be reasonable" (Odyssey, Book VII).
+- **Fair and even-tempered**: he refuses to be provoked over a slight to his hospitality, replying "Stranger... I am not the kind of man to get angry about nothing; it is always better to be reasonable" (Odyssey, Book VII).
 - **Attentive to counsel and propriety**: when reminded of proper etiquette toward a suppliant, "Alcinous heard this he took Ulysses by the hand, raised him from the hearth, and bade him take the seat of Laodamas... his favourite son" (Odyssey, Book VII).
 
 ## Entourage

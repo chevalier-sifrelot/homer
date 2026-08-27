@@ -23,7 +23,7 @@ Iliad: referenced constantly as ruler of the dead, with a notable direct appeara
 ## Personality
 
 - **Even among gods he can suffer, yet remains fearsome and grim**: "Hades went to the house of Jove on great Olympus, angry and full of pain" (Iliad, Book V)
-- **Utterly ruthless and unyielding, the most hateful of the gods to mankind**: "it is only Hades who is utterly ruthless and unyielding- and hence he is of all gods the one most hateful to mankind." (Iliad, Book IX)
+- **Utterly ruthless and unyielding, the most hateful of the gods to mankind**: alone among the gods he is "utterly ruthless and unyielding- and hence he is of all gods the one most hateful to mankind" (Iliad, Book IX)
 - **A dread jailor who holds the souls of the dead captive forever**: "the mighty jailor Hades" (Odyssey, Book XI)
 
 ## Entourage
